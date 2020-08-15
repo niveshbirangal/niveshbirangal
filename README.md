@@ -4,4 +4,4 @@
 [![Youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&t=12s)
 
 ### Spotify Playing 🎧
-[<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)
+[<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)

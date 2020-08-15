@@ -1,8 +1,11 @@
 ### Hi there, I'm Nivesh Birangal 👋
 
-[![Website](https://img.shields.io/website?label=niveshb.com&style=for-the-badge&url=https%3A%2F%2Fniveshb.com)](https://niveshb.com)
+[![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
 [![Instagram Badge](https://img.shields.io/badge/-neobirangal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neobirangal/)](https://instagram.com/neobirangal)
 [![Youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&t=12s)
+[![Gmail Badge](https://img.shields.io/badge/-niveshbirangal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:niveshbirangal@gmail.com)](mailto:niveshbirangal@gmail.com)
+
+
 
 ### Spotify Playing 🎧
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)

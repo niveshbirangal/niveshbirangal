@@ -6,9 +6,9 @@
 
 ### Spotify Playing 🎧
 <div align="right">
-<br>
 <img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width='150"'>
 </div>
+
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)
 
 ### Connect with me:

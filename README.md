@@ -1,4 +1,3 @@
-<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/work.gif' width="150">
 
 ### Hi there, I'm Nivesh Birangal 👋
 
@@ -16,15 +15,7 @@
 [<img align="left" alt="niveshbirangal | LinkedIn" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/linkedin.svg"/>][linkedin]
 [<img align="left" alt="niveshbirangal | Instagram" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/instagram.svg"/>][instagram]
 [<img align="left" alt="niveshbirangal | YouTube" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/youtube.svg"/>][youtube]
-<br>
-<div align="left">
-<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width="150">
-<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width="150">
-<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width="150">
-<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width="150">
-<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width="150">
 
-</div>
 
 
     

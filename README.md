@@ -1,5 +1,6 @@
 ### Hi there, I'm Nivesh Birangal 👋
 <div align="right">
+<br>
 <img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width='150"'>
 </div>
 
@@ -67,9 +68,9 @@
    <a href="https://status.nmoo.dev/blocks/8">
    <img src="https://status.nmoo.dev/blocks/8" width="12" height="12">
    </a>
-   <br>
-   <img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
-
+</div>
+<div align="center">
+<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
 </div>
 
     

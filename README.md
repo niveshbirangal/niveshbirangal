@@ -1,9 +1,7 @@
 ### Hi there, I'm Nivesh Birangal 👋
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
-[![Instagram Badge](https://img.shields.io/badge/-neobirangal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neobirangal/)](https://instagram.com/neobirangal)
 [![Youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&t=12s)
-[![Gmail Badge](https://img.shields.io/badge/-niveshbirangal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:niveshbirangal@gmail.com)](mailto:niveshbirangal@gmail.com)
 
 
 

@@ -1,5 +1,5 @@
 ### Hi there, I'm Nivesh Birangal 👋
-<img align='center' src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width='150"'>
+<img align='right' src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width='150"'>
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
 [![Youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&t=12s)
@@ -65,8 +65,9 @@
    <a href="https://status.nmoo.dev/blocks/8">
    <img src="https://status.nmoo.dev/blocks/8" width="12" height="12">
    </a>
+   <img align='center' src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
+
 </div>
-<img align='center' src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
 
     
 

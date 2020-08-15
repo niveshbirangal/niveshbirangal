@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="niveshb.com" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/icons/website.svg" />][website]
-[<img align="left" alt="niveshbirangal | LinkedIn" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="niveshbirangal | Instagram" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/icons/instagram.svg" />][instagram]
-[<img align="left" alt="niveshbirangal | YouTube" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/icons/youtube%20both.svg" />][youtube]
+[<img align="left" alt="niveshb.com" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/website.svg"/>][website]
+[<img align="left" alt="niveshbirangal | LinkedIn" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/linkedin.svg"/>][linkedin]
+[<img align="left" alt="niveshbirangal | Instagram" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/instagram.svg"/>][instagram]
+[<img align="left" alt="niveshbirangal | YouTube" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/youtube.svg"/>][youtube]
 
 
 

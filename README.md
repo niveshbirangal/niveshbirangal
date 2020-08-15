@@ -65,7 +65,9 @@
    <a href="https://status.nmoo.dev/blocks/8">
    <img src="https://status.nmoo.dev/blocks/8" width="12" height="12">
    </a>
-   <img align='center' src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
+   <br>
+   <br>
+   <img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
 
 </div>
 

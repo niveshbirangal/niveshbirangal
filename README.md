@@ -4,10 +4,10 @@
 [![Youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&t=12s)
 
 
+<img align='right' src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
 
 ### Spotify Playing 🎧
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)
-<img align='right' src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
 
 ### Connect with me:
 

@@ -14,10 +14,11 @@
 [<img align="left" alt="niveshbirangal | Instagram" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/instagram.svg"/>][instagram]
 [<img align="left" alt="niveshbirangal | YouTube" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/youtube.svg"/>][youtube]
 
-<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
-<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
-<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
-
+<div align="center">
+<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
+<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
+<img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/one.gif' width='150"'>
+</div>
 
 
     

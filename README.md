@@ -1,4 +1,4 @@
-<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif' width="150">
+<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif' width="150%">
 
 ### Hi there, I'm Nivesh Birangal 👋
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)

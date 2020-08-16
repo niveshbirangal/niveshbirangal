@@ -1,4 +1,4 @@
-<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="150">
+<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif'>
 
 ### Hi there, I'm Nivesh Birangal 👋
 

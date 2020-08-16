@@ -1,5 +1,3 @@
-&nbsp;&nbsp;&nbsp;<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">
-
 ### Hi there, I'm Nivesh Birangal 👋
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
@@ -16,6 +14,8 @@
 [<img align="left" alt="niveshbirangal | LinkedIn" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/linkedin.svg"/>][linkedin]
 [<img align="left" alt="niveshbirangal | Instagram" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/instagram.svg"/>][instagram]
 [<img align="left" alt="niveshbirangal | YouTube" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/youtube.svg"/>][youtube]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">
 
 
 

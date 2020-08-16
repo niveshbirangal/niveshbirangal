@@ -1,4 +1,5 @@
 ### Hi there, I'm Nivesh Birangal 👋
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
 [![Youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&t=12s)

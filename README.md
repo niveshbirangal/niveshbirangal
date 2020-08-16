@@ -1,6 +1,6 @@
-<div align="right">
+<span align="right">
 <img src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif' width="150" height="150">
-</div>
+</span>
 
 ### Hi there, I'm Nivesh Birangal 👋
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)

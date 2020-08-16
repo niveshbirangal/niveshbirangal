@@ -1,5 +1,5 @@
 ### Hi there, I'm Nivesh Birangal 👋
-<img align="right" src="https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif" width="150" height="150">
+<img align="right" src="https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif" width="150" height="150"><br>
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-lighgreen?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
 [![Youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&t=12s)

@@ -21,5 +21,5 @@
 
 [website]: https://niveshb.com
 [youtube]: https://www.youtube.com/channel/UCpwUP_HiOyG_GHluWpQK59g?view_as=subscriber
-[instagram]: https://instagram.com/neobirangal
+[instagram]: https://instagram.com/niveshbirangal
 [linkedin]: https://linkedin.com/in/niveshbirangal

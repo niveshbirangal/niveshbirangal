@@ -1,3 +1,4 @@
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="niveshbirangal"><a class="LI-simple-link" href='https://in.linkedin.com/in/niveshbirangal?trk=profile-badge'>Nivesh Birangal</a></div>
 <img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif' width="150" height="150">
 
 ### Hi there, I'm Nivesh Birangal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">

@@ -6,7 +6,7 @@
 [![youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&ab_channel=NiveshBirangal/udY540zICDY)
 
 
-<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width="150" height="150">
+<!--<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width="150" height="150">-->
 
 ### Spotify Playing 🎧
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)

@@ -1,4 +1,4 @@
-<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif' width="150" height="150">
+<!--<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif' width="150" height="150">-->
 
 ### Hi there, I'm Nivesh Birangal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
@@ -18,7 +18,7 @@
 [<img align="left" alt="niveshbirangal | Instagram" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/instagram.svg"/>][instagram]
 [<img align="left" alt="niveshbirangal | YouTube" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/youtube.svg"/>][youtube]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">-->
 
 [website]: https://niveshb.com
 [youtube]: https://www.youtube.com/channel/UCpwUP_HiOyG_GHluWpQK59g?view_as=subscriber

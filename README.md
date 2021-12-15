@@ -3,7 +3,7 @@
 ### Hi there, I'm Nivesh Birangal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-blueviolet?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
-[![youtube](https://img.shields.io/youtube/views/udY540zICDY?style=social)](https://www.youtube.com/watch?v=udY540zICDY&ab_channel=NiveshBirangal/udY540zICDY)
+[![youtube](https://img.shields.io/youtube/channel/views/UCpwUP_HiOyG_GHluWpQK59g?style=social)](https://www.youtube.com/watch?v=udY540zICDY&ab_channel=NiveshBirangal/udY540zICDY)
 
 
 <!--<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width="150" height="150">-->
@@ -21,6 +21,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">-->
 
 [website]: https://niveshb.com
-[youtube]: https://www.youtube.com/channel/UCpwUP_HiOyG_GHluWpQK59g?view_as=subscriber
+[youtube]: https://img.shields.io/youtube/channel/views/UCpwUP_HiOyG_GHluWpQK59g?style=social
 [instagram]: https://instagram.com/birangalnivesh
 [linkedin]: https://linkedin.com/in/niveshbirangal

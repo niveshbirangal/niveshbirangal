@@ -22,5 +22,5 @@
 
 [website]: https://niveshb.com
 [youtube]: https://img.shields.io/youtube/channel/views/UCpwUP_HiOyG_GHluWpQK59g?style=social
-[instagram]: https://instagram.com/birangalnivesh
+[instagram]: https://instagram.com/niveshbirangal
 [linkedin]: https://linkedin.com/in/niveshbirangal

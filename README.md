@@ -29,6 +29,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [website]: https://niveshb.com
 [linkedin]: https://linkedin.com/in/niveshbirangal
 [twitter]: https://twitter.com/niveshbirangal

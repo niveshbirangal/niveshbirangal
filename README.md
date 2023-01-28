@@ -14,13 +14,25 @@
 ### Connect with me:
 
 [<img align="left" alt="niveshb.com" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/website.svg"/>][website]
+
 [<img align="left" alt="niveshbirangal | LinkedIn" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/linkedin.svg"/>][linkedin]
+
+[<img align="left" alt="niveshbirangal | Twitter" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/twitter.png"/>][twitter]
+
 [<img align="left" alt="niveshbirangal | Instagram" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/instagram.svg"/>][instagram]
+
+[<img align="left" alt="niveshbirangal | Behance" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/behance.png"/>][behance]
+
+[<img align="left" alt="niveshbirangal | Dribbble" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/dribbble.png"/>][dribbble]
+
 [<img align="left" alt="niveshbirangal | YouTube" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/youtube.svg"/>][youtube]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">-->
 
 [website]: https://niveshb.com
-[instagram]: https://instagram.com/niveshbirangal
 [linkedin]: https://linkedin.com/in/niveshbirangal
+[twitter]: https://twitter.com/niveshbirangal
+[instagram]: https://instagram.com/niveshbirangal
+[behance]: https://www.behance.net/niveshbirangal
+[dribbble]: https://dribbble.com/niveshbirangal
 [youtube]: https://img.shields.io/youtube/channel/views/UCpwUP_HiOyG_GHluWpQK59g?style=social

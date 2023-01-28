@@ -20,6 +20,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [website]: https://niveshb.com
 [youtube]: https://www.youtube.com/channel/UCpwUP_HiOyG_GHluWpQK59g
 [instagram]: https://instagram.com/niveshbirangal

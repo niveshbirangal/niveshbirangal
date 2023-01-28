@@ -11,6 +11,10 @@
 ### Spotify Playing 🎧
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)
 
+### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Connect with me:
 
 [<img align="left" alt="niveshb.com" width="32px" src="https://raw.githubusercontent.com/niveshbirangal/niveshbirangal/master/source/website.svg"/>][website]
@@ -29,9 +33,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<img align="center" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/head.gif' width="300">-->
 
-### Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [website]: https://niveshb.com
 [linkedin]: https://linkedin.com/in/niveshbirangal

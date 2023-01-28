@@ -3,7 +3,7 @@
 ### Hi there, I'm Nivesh Birangal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" height="24">
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-blueviolet?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
-[![youtube](https://img.shields.io/youtube/channel/views/UCpwUP_HiOyG_GHluWpQK59g?style=social)](https://www.youtube.com/watch?v=udY540zICDY&ab_channel=NiveshBirangal/udY540zICDY)
+<!--[![youtube](https://img.shields.io/youtube/channel/views/UCpwUP_HiOyG_GHluWpQK59g?style=social)](https://www.youtube.com/watch?v=udY540zICDY&ab_channel=NiveshBirangal/udY540zICDY) -->
 
 
 <!--<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width="150" height="150">-->

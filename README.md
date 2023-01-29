@@ -13,6 +13,16 @@
 
 ### Coding Stats:
 <!--START_SECTION:waka-->
+
+```text
+From: 27 January 2023 - To: 28 January 2023
+
+Total Time: 1 hr 9 mins
+
+TypeScript   1 hr 9 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   99.84 %
+JavaScript   0 secs          -------------------------   00.16 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Connect with me:

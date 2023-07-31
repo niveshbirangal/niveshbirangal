@@ -15,14 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2023 - To: 28 July 2023
+From: 27 January 2023 - To: 29 July 2023
 
-Total Time: 415 hrs 19 mins
+Total Time: 419 hrs 3 mins
 
-JavaScript       207 hrs 43 mins >>>>>>>>>>>>>------------   50.02 %
-TypeScript       180 hrs 23 mins >>>>>>>>>>>--------------   43.43 %
-CSS              12 hrs 39 mins  >------------------------   03.05 %
-HTML             10 hrs 19 mins  >------------------------   02.48 %
+JavaScript       208 hrs 4 mins  >>>>>>>>>>>>-------------   49.65 %
+TypeScript       183 hrs 47 mins >>>>>>>>>>>--------------   43.86 %
+CSS              12 hrs 39 mins  >------------------------   03.02 %
+HTML             10 hrs 19 mins  >------------------------   02.46 %
 ```
 
 <!--END_SECTION:waka-->

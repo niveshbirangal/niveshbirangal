@@ -11,7 +11,7 @@
 ### Spotify Playing 🎧
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)
 
-### Coding Stats [wakatime.com/@niveshbirangal](https://wakatime.com/@niveshbirangal):
+### Coding Stats:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -26,6 +26,7 @@ CSS              21 hrs 44 mins  >------------------------   02.69 %
 ```
 
 <!--END_SECTION:waka-->
+https://wakatime.com/@niveshbirangal
 
 ### Connect with me:
 

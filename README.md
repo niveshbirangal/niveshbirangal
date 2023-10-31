@@ -16,14 +16,14 @@ wakatime.com/@niveshbirangal
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2023 - To: 28 October 2023
+From: 27 January 2023 - To: 29 October 2023
 
-Total Time: 1,338 hrs 41 mins
+Total Time: 1,341 hrs 22 mins
 
-TypeScript       648 hrs 28 mins >>>>>>>>>>>>-------------   48.44 %
-JavaScript       515 hrs 29 mins >>>>>>>>>>---------------   38.51 %
-CSS              111 hrs 56 mins >>-----------------------   08.36 %
-HTML             43 hrs 31 mins  >------------------------   03.25 %
+TypeScript       648 hrs 28 mins >>>>>>>>>>>>-------------   48.34 %
+JavaScript       515 hrs 46 mins >>>>>>>>>>---------------   38.45 %
+CSS              114 hrs 18 mins >>-----------------------   08.52 %
+HTML             43 hrs 33 mins  >------------------------   03.25 %
 ```
 
 <!--END_SECTION:waka-->

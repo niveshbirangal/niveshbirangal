@@ -22,8 +22,6 @@ Total Time: 1,453 hrs 37 mins
 
 TypeScript       648 hrs 40 mins >>>>>>>>>>>--------------   44.62 %
 JavaScript       615 hrs 36 mins >>>>>>>>>>>--------------   42.35 %
-CSS              114 hrs 21 mins >>-----------------------   07.87 %
-HTML             43 hrs 34 mins  >------------------------   03.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -23,7 +23,6 @@ Total Time: 1,775 hrs 55 mins
 JavaScript       929 hrs 45 mins >>>>>>>>>>>>>------------   52.35 %
 TypeScript       649 hrs 45 mins >>>>>>>>>----------------   36.59 %
 Python           45 mins         -------------------------   00.04 %
-GitIgnore file   10 mins         -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->

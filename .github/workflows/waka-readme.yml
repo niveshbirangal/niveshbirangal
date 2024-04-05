@@ -19,5 +19,5 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 3
-          IGNORED_LANGUAGES: CSS css html HTML json JSON .gitignore GitIgnore Text SVG Markdown SCSS AUTO_DETECTED XML YAML CSV/TSV Other Jade GDScript3 Pug TSConfig GitIgnore file
+          LANG_COUNT: 4
+          IGNORED_LANGUAGES: html CSS css HTML json JSON .gitignore GitIgnore Text SVG Markdown SCSS AUTO_DETECTED XML YAML CSV/TSV Other Jade GDScript3 Pug TSConfig GitIgnore

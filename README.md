@@ -9,7 +9,7 @@
 <!--<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/song.gif' width="150" height="150">-->
 
 ### Spotify Playing 🎧
-[<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Nivesh Birangal Spotify Playing" width="350" />](https://open.spotify.com/user/niveshbirangal)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niveshbirangal&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=niveshbirangal&redirect=true)
 
 ### Coding Stats: 
 wakatime.com/@niveshbirangal

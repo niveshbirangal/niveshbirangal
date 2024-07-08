@@ -20,4 +20,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: HTML CSS JSON .gitignore GitIgnore Text SVG Markdown SCSS AUTO_DETECTED XML YAML CSV/TSV Other Jade GDScript3 Pug TSConfig GitIgnore file 
+          IGNORED_LANGUAGES: HTML CSS JSON Text SVG Markdown SCSS XML YAML CSV/TSV Jade GDScript3 Pug TSConfig "GitIgnore file"

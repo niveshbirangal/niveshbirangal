@@ -23,6 +23,7 @@ Total Time: 2,101 hrs 39 mins
 JavaScript       1,172 hrs 17 mins>>>>>>>>>>>>>>-----------   55.78 %
 TypeScript       655 hrs 26 mins >>>>>>>>-----------------   31.19 %
 C++              164 hrs 35 mins >>-----------------------   07.83 %
+C                44 hrs 48 mins  >------------------------   02.13 %
 ```
 
 <!--END_SECTION:waka-->

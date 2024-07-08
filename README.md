@@ -20,11 +20,9 @@ From: 27 January 2023 - To: 07 July 2024
 
 Total Time: 2,101 hrs 39 mins
 
-JavaScript       1,154 hrs 36 mins>>>>>>>>>>>>>>-----------   54.94 %
-TypeScript       649 hrs 45 mins >>>>>>>>-----------------   30.92 %
-CSS              116 hrs 9 mins  >------------------------   05.53 %
-HTML             48 hrs 26 mins  >------------------------   02.30 %
-Markdown         31 hrs 30 mins  -------------------------   01.50 %
+JavaScript       1,172 hrs 17 mins>>>>>>>>>>>>>>-----------   55.78 %
+TypeScript       655 hrs 26 mins >>>>>>>>-----------------   31.19 %
+C++              164 hrs 35 mins >>-----------------------   07.83 %
 ```
 
 <!--END_SECTION:waka-->

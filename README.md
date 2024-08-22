@@ -11,7 +11,7 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=niveshbirangal&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/niveshbirangal)
 
-### Coding Stats: 
+### Stats 📊 
 wakatime.com/@niveshbirangal
 <!--START_SECTION:waka-->
 

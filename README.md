@@ -1,6 +1,7 @@
 <!--<img align="right" src='https://github.com/niveshbirangal/niveshbirangal/blob/master/source/gifs/hey.gif' width="150" height="150">-->
 
-### Hi there, I'm Nivesh Birangal ∫Σλ(Neo)
+### Hi there, I'm Nivesh Birangal
+∫Σλ(Neo)
 
 [![Web Badge](https://img.shields.io/badge/-niveshb.com-blueviolet?style=flat-square&logo=webmoney&logoColor=white&link=https://niveshb.com)](https://niveshb.com)
 [![youtube](https://img.shields.io/youtube/channel/views/UCpwUP_HiOyG_GHluWpQK59g?style=social)](https://www.youtube.com/watch?v=udY540zICDY&ab_channel=NiveshBirangal/udY540zICDY)

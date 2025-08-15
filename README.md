@@ -16,7 +16,7 @@ wakatime.com/@niveshbirangal
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2023 - To: 12 August 2025
+From: 27 January 2023 - To: 13 August 2025
 
 Total Time: 3,094 hrs 34 mins
 
